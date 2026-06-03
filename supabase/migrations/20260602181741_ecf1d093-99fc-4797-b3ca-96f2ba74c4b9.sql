@@ -1,0 +1,1 @@
+UPDATE public.site_settings SET logo_url='/__l5e/assets-v1/0f6405d2-d003-4a08-adcf-2106a5ff958c/logo.png' WHERE id=true;
