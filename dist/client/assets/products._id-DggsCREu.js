@@ -1,0 +1,1 @@
+import{o as e}from"./index-CVKr4InP.js";const o=()=>e.jsx("div",{className:"min-h-screen grid place-items-center",children:e.jsx("p",{className:"text-muted-foreground",children:"حدث خطأ ما."})});export{o as errorComponent};

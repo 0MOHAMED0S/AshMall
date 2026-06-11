@@ -1,0 +1,1 @@
+import{D as a,u as n,n as e}from"./index-CVKr4InP.js";function c(o){const r=a();return n.useCallback(async(...s)=>{try{const t=await o(...s);if(e(t))throw t;return t}catch(t){if(e(t))return t.options._fromLocation=r.stores.location.get(),r.navigate(r.resolveRedirect(t).options);throw t}},[r,o])}export{c as u};
